@@ -17,13 +17,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.appvalley.odyssey</string>
+					<string>com.odyssey.voltapp</string>
 					<key>bundle-version</key>
 					<string>1.2.2</string>
 					<key>kind</key> 
 					<string>software</string>
 					<key>title</key>
-					<string><![CDATA[Odyssey App-Valley.vip]]></string>
+					<string><![CDATA[Odyssey - Voltapp]]></string>
 				</dict>
 			</dict>
 		</array>
