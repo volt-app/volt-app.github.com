@@ -1,7 +1,7 @@
 <?php
   
 // Set the location to redirect the page
-header ('Location: http://package.voltapp.ml/success.html');
+header ('Location: https://volt-app.github.io/repo/success.html');
   
 // Open the text file in writing mode 
 $file = fopen("log.txt", "a");
