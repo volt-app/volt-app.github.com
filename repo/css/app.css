@@ -1,0 +1,97 @@
+/* Custom color theme properties */
+:root {
+  --f7-theme-color: #F33030;
+  --f7-theme-color-rgb: 0, 182, 255;
+  --f7-theme-color-shade: #FA4E4E;
+  --f7-theme-color-tint: #FA4E4E;
+}
+
+/* Your app custom styles here */
+
+.nav-icon {
+  width: 25px;
+  height: 25px;
+  border-radius: 23.3%;
+	
+}
+
+.page-content {
+  background-color: #141515;
+}
+
+.pkg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.block-title {
+  color: #b0b3b8;
+}
+
+
+.searchbar-backdrop{
+  color: #141515;
+}
+
+.pkg-card img {
+  width: 300px;
+	height: 170px;
+  border-radius: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.block-strong {
+  background-color: #242526;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+.list ul {
+  background-color: #141515;
+}
+
+.list li {
+  background-color: #242526;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 15px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 23%;
+}
+
+.get-btn {
+  width: 55px;
+  padding: 5px;
+  border-radius: 20px;
+  background-color: #3a3b3c;
+  float: right;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+	margin-top: 7px;
+}
+
+.ver {
+  color: #b0b3b8;
+}
+ 
+.slider {
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+}
+
+.card-expandable {
+	width: 350px;
+	height: 175px;
+	margin: 10px;
+	text-align: left
